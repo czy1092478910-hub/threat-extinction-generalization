@@ -43,7 +43,10 @@ extinction failure and persistent threat generalization.
 ```bash
 python simulate_rw.py
 python generalization.py
-Key results
+
+---
+
+## Key results
 Reduced safety learning rate (α⁻) leads to extinction failure
 
 Increased generalization strength (g) leads to elevated threat
