@@ -39,13 +39,6 @@ extinction failure and persistent threat generalization.
 
 ---
 
-## How to run
-```bash
-python simulate_rw.py
-python generalization.py
-
----
-
 ## Key results
 Reduced safety learning rate (α⁻) leads to extinction failure
 
@@ -60,5 +53,12 @@ The model is intended as a minimal mechanistic demonstration,
 rather than a finalized cognitive model.
 
 Contact
-Prepared by: YOUR NAME
-University of Szeged
+Prepared by: Chao Zhiyu
+University of Szeged TTIK
+
+## How to run
+```bash
+python simulate_rw.py
+python generalization.py
+
+---
