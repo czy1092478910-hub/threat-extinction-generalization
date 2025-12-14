@@ -47,14 +47,14 @@ responses to GS even after extinction
 
 The interaction of α⁻ and g captures core features of anxiety/PTSD
 
-Status
+## Status
 This is an ongoing exploratory project.
 The model is intended as a minimal mechanistic demonstration,
 rather than a finalized cognitive model.
 
-Contact
-Prepared by: Chao Zhiyu
-University of Szeged TTIK
+## Contact
+Prepared by: Chao Zhiyu,
+University of Szeged, TTIK
 
 ## How to run
 ```bash
